@@ -10,5 +10,3 @@ This is an experimental Computer Graphics project that uses OpenGL for GPU-accel
 - Ray-traced reflections (including blurry reflections based on surface roughness)
 - HDR Skyboxes
 - Animation rendering
-
-The project and its development process were showcased in [this video](https://youtu.be/A61S_2swwAc) on my YouTube channel.
